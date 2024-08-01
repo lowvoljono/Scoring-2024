@@ -11,4 +11,4 @@ the value stat is less than -2.581 and the absolute value of it is > than the hi
 3. If they aren't any of those, then Alpha.
 
 
-![Tree](https://github.com/[lowvoljono]/[2024-Innova]/blob/[main]/Tree_Diagram.png?raw=true)
+![Tree](https://imgur.com/a/TEOxmYR)
